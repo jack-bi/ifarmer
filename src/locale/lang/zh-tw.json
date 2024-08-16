@@ -1,0 +1,21 @@
+{
+    "common": {
+        "btnConfirm": "確認",
+        "btnCancel": "取消"
+    },
+    "login": {
+        "title": "使用者登入",
+        "description": "請輸入使用者帳號與密碼以進行登入使用",
+        "userName": "使用者帳號",
+        "password": "使用者密碼",
+        "loginBtn": "登入",
+        "forgotPwd": "忘記密碼?",
+        "resetPwd": "修改密碼",
+        "loginFailTitle": "登入失敗",
+        "loginFailMsg": "登入失敗, 請確認帳號密碼是否正確"
+    },
+    "home": {
+        "logoutTitle": "登出",
+        "logoutMsg": "確認登出 iFarmer ?"
+    }
+}

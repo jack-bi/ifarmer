@@ -1,0 +1,14 @@
+{
+    "common": {
+
+    },
+    "login": {
+        "title": "iFarmer 2",
+        "description": "請輸入使用者帳號與密碼以進行登入使用",
+        "userName": "使用者帳號",
+        "password": "使用者密碼",
+        "loginBtn": "登入",
+        "resetPwd": "修改密碼",
+        "forgotPwd": "忘記密碼?"
+    }
+}
